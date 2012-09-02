@@ -2,3 +2,4 @@ highlight Hint font: bold 15px "Droid Sans Mono", monospace !important;margin:-.
 se hintchars=asdfghjklqwertyuiopzxcvbnm
 noremap m <c-d>
 noremap n <c-u>
+noremap p <c-p>
