@@ -6,3 +6,5 @@ noremap p <c-p>
 noremap h <c-o>
 let mapleader=','
 noremap <leader>f <F11>
+noremap ; f
+
