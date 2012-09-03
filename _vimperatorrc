@@ -3,3 +3,6 @@ se hintchars=asdfghjklqwertyuiopzxcvbnm
 noremap m <c-d>
 noremap n <c-u>
 noremap p <c-p>
+noremap h <c-o>
+let mapleader=','
+noremap <leader>f <F11>
